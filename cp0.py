@@ -1,4 +1,4 @@
-#basic 2-column keyed transpositional cipher
+#basic 2-column keyed transposition cipher
 def encrypt_da_plain(plaintext):
 
     text = plaintext.replace(" ","").lower()
